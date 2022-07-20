@@ -9,11 +9,15 @@ To access the GitHub repository use [GitHub Repository Create-Passord](https://g
 
 ## Content
 
+There will be a series of prompts upon clicking on the Generate Password buttom to request user input on the following list of criteria.
 
-following list of criteria chosed by the user.
+1.  Length of the password
+2.  Whether to include uppercase letters
+3.  Whether to include lowercase letters
+4.  Whether to include numbers
+5.  Whether to include special letters [i.e. %, $, !, etc.]
 
-    1.  Length
-    2.  Whether to include uppercase letters
-    3.  Whether to include lowercase letters
-    4.  Whether to include numbers
-    5.  Whether to include special letters [i.e. %, $, !, etc.]
+## Screenshot of the modified website
+
+![The screenshot of the website](./assets/website-wo-prompt.jpg)
+![The screenshot of the website showing a prompt](./assets/website-with-prompt.jpg)
