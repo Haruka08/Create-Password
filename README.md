@@ -19,5 +19,5 @@ There will be a series of prompts upon clicking on the Generate Password buttom 
 
 ## Screenshot of the modified website
 
-![The screenshot of the website](./Assets/website-wo-prompt.jpg)
-![The screenshot of the website showing a prompt](./Assets/website-with-prompt.jpg)
+![The screenshot of the website](./assets/website-wo-prompt.jpg)
+![The screenshot of the website showing a prompt](./assets/website-with-prompt.jpg)
