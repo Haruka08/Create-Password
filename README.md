@@ -4,7 +4,7 @@ This website creates password incorporating several user inputs.
 
 ## Links to the webpage and repository
 
-To access the website use [Create Password](https://github.com/Haruka08/Create-Password.git)
+To access the website use [Create Password](https://haruka08.github.io/Create-Password/)
 To access the GitHub repository use [GitHub Repository Create-Passord](https://github.com/Haruka08/Create-Password) 
 
 ## Content
@@ -19,5 +19,5 @@ There will be a series of prompts upon clicking on the Generate Password buttom 
 
 ## Screenshot of the modified website
 
-![The screenshot of the website](./assets/website-wo-prompt.jpg)
-![The screenshot of the website showing a prompt](./assets/website-with-prompt.jpg)
+![The screenshot of the website](./Assets/website-wo-prompt.jpg)
+![The screenshot of the website showing a prompt](./Assets/website-with-prompt.jpg)
