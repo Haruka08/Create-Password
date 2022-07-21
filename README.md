@@ -4,8 +4,8 @@ This website creates password incorporating several user inputs.
 
 ## Links to the webpage and repository
 
-To access the website use [Create Password](https://haruka08.github.io/Create-Password/)
-To access the GitHub repository use [GitHub Repository Create-Passord](https://github.com/Haruka08/Create-Password) 
+To access the website use [Create Password](https://haruka08.github.io/password-creater/)
+To access the GitHub repository use [GitHub Repository Create-Passord](https://github.com/Haruka08/password-creater) 
 
 ## Content
 
